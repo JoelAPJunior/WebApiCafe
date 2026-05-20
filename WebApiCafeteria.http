@@ -1,0 +1,6 @@
+@WebApiCafeteria_HostAddress = http://localhost:5000
+
+GET {{WebApiCafeteria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
